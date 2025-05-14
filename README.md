@@ -1,46 +1,44 @@
-# 👋 Hi, I'm Rachel Guo!
+👋 Hi, I’m Rachel Guo
+📍 San Francisco | 📊 Business Analytics | 🎓 MSBA @ UC Davis (2025)
 
-🎓 MSBA Candidate @ UC Davis | 📊 Business Analytics & AI Enthusiast | 🌱 Turning Data into Actionable Insights
+About Me
+I work at the intersection of data, business, and strategy. My background spans analytics roles at TikTok, L’Oréal, Estée Lauder, and Amazon Whole Foods (incoming). I focus on turning data into decisions—whether through dashboards, models, or automated tools.
 
----
+Experience
+Amazon Whole Foods – Incoming Data Analytics Intern (Austin, Summer 2025)
 
-## 🚀 About Me
-I'm a data storyteller with a passion for uncovering patterns and building intuitive, impactful solutions. From analyzing electric vehicle trends to predicting law firm partnerships with AI, my projects combine business strategy with technical execution.
+L’Oréal (Paris) – Global Business Analyst
+Ran A/B tests across 10 countries, built pricing models, and developed Tableau dashboards to track KPIs.
 
-Currently, I’m exploring:
-- 📈 Data Visualization (Tableau, Looker)
-- 🧠 Machine Learning & GPT-powered automations
-- 🌐 Streamlit, Preswald, and data app deployment
-- 🤝 Business impact through analytics & strategy
+Estée Lauder (Paris) – BI Analyst
+Used NLP and Random Forest to analyze social media performance and recommend sales strategies.
 
----
+TikTok (Beijing) – Data Analyst Intern
+Automated advertiser analytics using SQL and Excel; analyzed data across 200+ clients.
 
-## 🛠 Featured Projects
+The Best Notary (SF) – Data Scientist (Project)
+Built a law firm fit model, overhauled internal dashboards, and integrated GPT into operations.
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [NeuroPolis](https://github.com/rachelqingguo/NeuroPolis) | AI-powered crisis response system that won two AggieHacks awards | Streamlit, LightGBM, OpenStreetMap |
-| [EV Market Analysis](https://github.com/rachelqingguo/Eletronic-Vehicles-Analysis) | Interactive Tableau dashboard exploring global EV trends | Tableau, Data Wrangling |
-| [Law Firm Prediction Model](https://github.com/rachelqingguo/law-firm-prediction) | GPT + automation to find top-fit legal clients for a growing startup | Python, GPT-4, Airtable |
-| [YouTube Analysis](https://github.com/rachelqingguo/youtubeanalysis) | Social media metrics analysis and strategy insights | Python, Pandas, Canva |
+Projects
+Project	Description	Tools
+NeuroPolis	AI-powered disaster response tool. Won two AggieHacks awards.	Streamlit, LightGBM
+EV Market Analysis	Tableau dashboard on global EV sales trends.	Tableau, Excel
+Law Firm Fit Model	GPT-based automation to qualify legal clients.	Python, GPT-4, Airtable
+YouTube Strategy Insights	Analyzed social media performance for growth insights.	Pandas, Canva
 
-➡️ Check out my [portfolio site](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/) for live dashboards and visuals.
+🔗 See more at my portfolio site
 
----
+Skills
+Languages: Python, SQL, R
+Tools: Tableau, Looker, Power BI, Streamlit, Airtable
+Techniques: A/B Testing, ML Models, NLP, Causal Inference
+Cloud: AWS S3, BigQuery, WebDriver
 
-## 🧠 What I Value
-- Simplicity over jargon
-- Strategy backed by data
-- Tools that work (even if duct-taped together at 2 AM)
-- Building for impact, not just output
+Contact
+LinkedIn
 
----
+📧 rachelguo0429@gmail.com
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/rachelqingguo)
-- 📧 rachelqingguo@gmail.com
-- 🗂 Explore my repos — and don’t hesitate to star or reach out!
+🌐 Portfolio
 
----
-
-*“Good analytics tells a story — great analytics drives action.”*
+Analytics should lead to action. That’s the goal.
