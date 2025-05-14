@@ -1,44 +1,77 @@
-👋 Hi, I’m Rachel Guo
-📍 San Francisco | 📊 Business Analytics | 🎓 MSBA @ UC Davis (2025)
+# 👋 Hi, I’m Rachel Guo
 
-About Me
-I work at the intersection of data, business, and strategy. My background spans analytics roles at TikTok, L’Oréal, Estée Lauder, and Amazon Whole Foods (incoming). I focus on turning data into decisions—whether through dashboards, models, or automated tools.
+🎓 MSBA Candidate @ UC Davis (Class of 2025)  
+📍 Based in San Francisco | 📊 Business Analytics & Data Strategy  
+🔗 [Portfolio](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/) • [LinkedIn](https://www.linkedin.com/in/rachelqingguo)
 
-Experience
-Amazon Whole Foods – Incoming Data Analytics Intern (Austin, Summer 2025)
+---
 
-L’Oréal (Paris) – Global Business Analyst
-Ran A/B tests across 10 countries, built pricing models, and developed Tableau dashboards to track KPIs.
+## 👩🏻‍💻 About Me
 
-Estée Lauder (Paris) – BI Analyst
-Used NLP and Random Forest to analyze social media performance and recommend sales strategies.
+I'm passionate about solving real-world problems with data. My experience spans across global companies like **TikTok**, **L’Oréal**, **Estée Lauder**, and **Amazon Whole Foods** (incoming), where I've worked on projects from pricing strategy and A/B testing to GPT-powered client prediction models.
 
-TikTok (Beijing) – Data Analyst Intern
-Automated advertiser analytics using SQL and Excel; analyzed data across 200+ clients.
+I enjoy working across both technical and business teams—translating complex analytics into clear, strategic action. Whether it’s a dashboard, a machine learning model, or a quick automation script, I care most about whether it makes someone's job easier or a decision smarter.
 
-The Best Notary (SF) – Data Scientist (Project)
-Built a law firm fit model, overhauled internal dashboards, and integrated GPT into operations.
+---
 
-Projects
-Project	Description	Tools
-NeuroPolis	AI-powered disaster response tool. Won two AggieHacks awards.	Streamlit, LightGBM
-EV Market Analysis	Tableau dashboard on global EV sales trends.	Tableau, Excel
-Law Firm Fit Model	GPT-based automation to qualify legal clients.	Python, GPT-4, Airtable
-YouTube Strategy Insights	Analyzed social media performance for growth insights.	Pandas, Canva
+## 💼 Experience Highlights
 
-🔗 See more at my portfolio site
+- **Amazon Whole Foods** *(Incoming Intern – Summer 2025)*  
+  Data Analytics & Insights – supporting business decisions at retail scale
 
-Skills
-Languages: Python, SQL, R
-Tools: Tableau, Looker, Power BI, Streamlit, Airtable
-Techniques: A/B Testing, ML Models, NLP, Causal Inference
-Cloud: AWS S3, BigQuery, WebDriver
+- **L’Oréal Global HQ (Paris)**  
+  A/B testing across 10+ countries, pricing strategy, Tableau dashboards
 
-Contact
-LinkedIn
+- **Estée Lauder (Paris)**  
+  Social analytics using NLP + machine learning; weekly insights to senior team
 
-📧 rachelguo0429@gmail.com
+- **TikTok (Beijing)**  
+  Automated advertiser analytics; SQL feature engineering on 80K+ rows
 
-🌐 Portfolio
+- **The Best Notary (San Francisco)**  
+  Built client prediction model, improved reporting workflows, integrated GPT
 
-Analytics should lead to action. That’s the goal.
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [**NeuroPolis**](https://github.com/rachelqingguo/NeuroPolis) | Real-time AI disaster detection system. 🏆 Bronze Beacon Award & Best Mixed Team at AggieHacks. | Streamlit, LightGBM |
+| [**EV Market Analysis**](https://github.com/rachelqingguo/Eletronic-Vehicles-Analysis) | Interactive Tableau dashboard analyzing global EV sales and trends. | Tableau |
+| [**Law Firm Fit Model**](https://github.com/rachelqingguo/law-firm-prediction) | GPT automation to evaluate law firms for strategic outreach. | Python, Airtable, GPT-4 |
+| [**YouTube Strategy Insights**](https://github.com/rachelqingguo/youtubeanalysis) | Analyzing social metrics and growth patterns of YouTube creators. | Pandas, Canva |
+
+🔗 More live projects at: [Portfolio](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/)
+
+---
+
+## 🛠 Skills & Tools
+
+**Languages:** Python, SQL, R  
+**Analytics:** A/B Testing, Causal Inference, ML Modeling, NLP  
+**Dashboards:** Tableau, Looker, Power BI  
+**Automation & Apps:** Streamlit, Airtable, Preswald, Excel Macros  
+**Cloud/Data:** Google BigQuery, AWS S3, Selenium/WebDriver
+
+---
+
+## 💡 What I Focus On
+
+- Simplifying decisions with clean analytics  
+- Designing tools people actually use  
+- Connecting business needs with technical solutions  
+- Scaling ideas — from slide decks to production dashboards
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rachelqingguo)  
+- 📧 rachelguo0429@gmail.com  
+- 🌐 [Portfolio](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/)  
+- 🗂 Explore my GitHub projects and feel free to reach out!
+
+---
+
+*“The best insights don’t just explain — they drive action.”*
