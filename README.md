@@ -42,7 +42,7 @@ I enjoy working across both technical and business teams—translating complex a
 | [**Law Firm Fit Model**](https://github.com/rachelqingguo/law-firm-prediction) | GPT automation to evaluate law firms for strategic outreach. | Python, Airtable, GPT-4 |
 | [**YouTube Strategy Insights**](https://github.com/rachelqingguo/youtubeanalysis) | Analyzing social metrics and growth patterns of YouTube creators. | Pandas, Canva |
 
-🔗 More live projects at: [Portfolio](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/)
+🔗 More live projects at: [Portfolio](https://rachelqingguo.github.io/personal-portfolio/)
 
 ---
 
