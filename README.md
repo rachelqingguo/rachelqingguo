@@ -16,8 +16,8 @@ I enjoy working across both technical and business teams—translating complex a
 
 ## 💼 Experience Highlights
 
-- **Amazon Whole Foods** *(Incoming Intern – Summer 2025)*  
-  Data Analytics & Insights – supporting business decisions at retail scale
+- **Amazon Whole Foods** *(Summer 2025)*  
+  Analytics & Insights – supporting business decisions at retail scale
 
 - **L’Oréal Global HQ (Paris)**  
   A/B testing across 10+ countries, pricing strategy, Tableau dashboards
