@@ -16,7 +16,7 @@ I enjoy working across both technical and business teams—translating complex a
 
 ## 💼 Experience Highlights
 
-- **Amazon Whole Foods** *(Summer 2025)*  
+- **Amazon (Whole Foods Market)** *(Summer 2025)*  
   Analytics & Insights – supporting business decisions at retail scale
 
 - **L’Oréal Global HQ (Paris)**  
