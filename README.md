@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm passionate about solving real-world problems with data. My experience spans across global companies like **TikTok**, **L’Oréal**, **Estée Lauder**, and **Amazon Whole Foods** , where I've worked on projects from pricing strategy and A/B testing to GPT-powered client prediction models.
+I'm passionate about solving real-world problems with data. My experience spans across global companies like **TikTok**, **L’Oréal**, **Estée Lauder**, and **Amazon** , where I've worked on projects from pricing strategy and A/B testing to GPT-powered client prediction models.
 
 I enjoy working across both technical and business teams—translating complex analytics into clear, strategic action. Whether it’s a dashboard, a machine learning model, or a quick automation script, I care most about whether it makes someone's job easier or a decision smarter.
 
@@ -16,7 +16,7 @@ I enjoy working across both technical and business teams—translating complex a
 
 ## 💼 Experience Highlights
 
-- **Amazon (Whole Foods Market)** *(Summer 2025)*  
+- **Amazon** *(Summer 2025)*  
   Analytics & Insights – supporting business decisions at retail scale
 
 - **L’Oréal Global HQ (Paris)**  
