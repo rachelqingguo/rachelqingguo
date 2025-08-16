@@ -1,77 +1,73 @@
-# 👋 Hi, I’m Rachel Guo
+# 👋 Hi, I’m Rachel Guo  
 
-🎓 MSBA Candidate @ UC Davis (Class of 2025)  
-📍 Based in San Francisco | 📊 Business Analytics & Data Strategy  
-🔗 [Portfolio](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/) • [LinkedIn](https://www.linkedin.com/in/rachelqingguo)
-
----
-
-## 👩🏻‍💻 About Me
-
-I'm passionate about solving real-world problems with data. My experience spans across global companies like **TikTok**, **L’Oréal**, **Estée Lauder**, and **Amazon** , where I've worked on projects from pricing strategy and A/B testing to GPT-powered client prediction models.
-
-I enjoy working across both technical and business teams—translating complex analytics into clear, strategic action. Whether it’s a dashboard, a machine learning model, or a quick automation script, I care most about whether it makes someone's job easier or a decision smarter.
+🎯 **Data & Business Analyst | Continuous Improvement | Marketing & Operations Insights**  
+📍 San Francisco, CA | 🌍 Experienced across the U.S., Europe, and Asia  
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 About Me  
+I’m a **data and business analyst** with 3+ years of international experience across **tech, retail, and consumer products**.  
+I specialize in solving messy, ambiguous problems by combining **analytics, product sense, and cross-functional collaboration**.  
 
-- **Amazon** *(Summer 2025)*  
-  Analytics & Insights – supporting business decisions at retail scale
-
-- **L’Oréal Global HQ (Paris)**  
-  A/B testing across 10+ countries, pricing strategy, Tableau dashboards
-
-- **Estée Lauder (Paris)**  
-  Social analytics using NLP + machine learning; weekly insights to senior team
-
-- **TikTok (Beijing)**  
-  Automated advertiser analytics; SQL feature engineering on 80K+ rows
-
-- **The Best Notary (San Francisco)**  
-  Built client prediction model, improved reporting workflows, integrated GPT
+- 🔎 Skilled in SQL, Python, R, Tableau, and PowerBI  
+- 📊 Experienced in A/B Testing, Causal Inference, Predictive Modeling, and Automation  
+- 🌐 Worked at **Amazon, L’Oréal, Estée Lauder, and TikTok**  
+- 🛠️ Built scalable pipelines & dashboards that cut manual work, boosted engagement, and informed **multi-market strategy**  
 
 ---
 
-## 📌 Featured Projects
+## 💼 Experience Highlights  
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [**NeuroPolis**](https://github.com/rachelqingguo/NeuroPolis) | Real-time AI disaster detection system. 🏆 Bronze Beacon Award & Best Mixed Team at AggieHacks. | Streamlit, LightGBM |
-| [**EV Market Analysis**](https://github.com/rachelqingguo/Eletronic-Vehicles-Analysis) | Interactive Tableau dashboard analyzing global EV sales and trends. | Tableau |
-| [**Law Firm Fit Model**](https://github.com/rachelqingguo/law-firm-prediction) | GPT automation to evaluate law firms for strategic outreach. | Python, Airtable, GPT-4 |
-| [**YouTube Strategy Insights**](https://github.com/rachelqingguo/youtubeanalysis) | Analyzing social metrics and growth patterns of YouTube creators. | Pandas, Canva |
-
-🔗 More live projects at: [Portfolio](https://rachelqingguo.github.io/personal-portfolio/)
+- **Amazon (Fresh & Whole Foods)** → Delivered weekly insights & automated dashboards to guide **store strategy and operations**.  
+- **The Best Notary** → Migrated 8+ legacy reports into **Looker dashboards**, improved match accuracy by **17%**.  
+- **L’Oréal** → Designed A/B test + DiD modeling for 10 countries, shaping **global business strategy for 2023**.  
+- **Estée Lauder** → Built NLP + XGBoost model to boost Instagram engagement by **5.1%**.  
+- **TikTok Ads** → Created **Excel VBA analytics tools** reducing manual reporting by **33%**.  
 
 ---
 
-## 🛠 Skills & Tools
+## 🧪 Hackathons & Projects  
 
-**Languages:** Python, SQL, R  
-**Analytics:** A/B Testing, Causal Inference, ML Modeling, NLP  
-**Dashboards:** Tableau, Looker, Power BI  
-**Automation & Apps:** Streamlit, Airtable, Preswald, Excel Macros  
-**Cloud/Data:** Google BigQuery, AWS S3, Selenium/WebDriver
+- 🏆 **PitchSense (AgentHack 2025, Top 5%)** → Predictive matching model (Python + Next.js) connecting founders with VCs.  
+- ⚡ **NeuroPolis (UC Davis Hackathon, Top 10%)** → LightGBM models for disaster prediction & misinformation filtering with Plotly dashboards.  
 
 ---
 
-## 💡 What I Focus On
+## 🎓 Education  
 
-- Simplifying decisions with clean analytics  
-- Designing tools people actually use  
-- Connecting business needs with technical solutions  
-- Scaling ideas — from slide decks to production dashboards
-
----
-
-## 📬 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rachelqingguo)  
-- 📧 rachelguo0429@gmail.com  
-- 🌐 [Portfolio](https://fluffy-space-lamp-q7wpx995445f99gw.github.dev/)  
-- 🗂 Explore my GitHub projects and feel free to reach out!
+🎓 **UC Davis** — M.S. Business Analytics (2025) | GPA 3.8  
+🎓 **Columbia University** — M.A. International Economics Policy (2024) | GPA 3.9  
+🎓 **Beijing International Studies University** — B.A. International Economics (2021) | GPA 3.8  
 
 ---
 
-*“The best insights don’t just explain — they drive action.”*
+## 🛠️ Tech Stack  
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelqingguo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelqingguo&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rachelqingguo&theme=tokyonight)  
+
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rachel-guo0429/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rachelqingguo.github.io/personal-portfolio/)  
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachelqingguo)  
+
+---
+
+✨ *Turning messy data and complex processes into clear insights and scalable solutions.*  
