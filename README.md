@@ -23,7 +23,7 @@ finding the root cause in the numbers, then explaining it in a way that actually
 ## 📌 A Few Highlights  
 
 - 🚀 At **Amazon**, I automated reporting that cut hours of manual work and helped launch new stores with customer insights.  
-- 💄 At **L’Oréal**, I ran experiments in 10 countries to find the most profitable sampling strategy.  
+- 💄 At **L’Oréal**, I ran A/B experiments in 10 countries to find the most profitable sampling strategy.  
 - 📈 At **Estée Lauder**, I used NLP on 4,000+ Instagram posts and boosted engagement by **5%**.  
 - 🎥 At **TikTok**, I built self-service analytics tools so non-tech teams could answer their own questions.  
 
