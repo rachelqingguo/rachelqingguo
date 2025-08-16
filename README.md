@@ -53,15 +53,6 @@ I specialize in solving messy, ambiguous problems by combining **analytics, prod
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachelqingguo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelqingguo&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rachelqingguo&theme=tokyonight)  
-
-
----
-
 ## 📫 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rachel-guo0429/)  
