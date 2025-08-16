@@ -1,64 +1,58 @@
-# 👋 Hi, I’m Rachel Guo  
+# 👋 Hey, I’m Rachel  
 
-🎯 **Data & Business Analyst | Continuous Improvement | Marketing & Operations Insights**  
-📍 San Francisco, CA | 🌍 Experienced across the U.S., Europe, and Asia  
+I’m a data analyst who loves making sense of messy problems.  
+Over the past few years, I’ve worked across **tech, retail, and consumer products** — from digging through millions of rows of Amazon shopping data, to building marketing dashboards in Paris, to figuring out why TikTok ads were (or weren’t) working.  
 
----
-
-## 🚀 About Me  
-I’m a **data and business analyst** with 3+ years of international experience across **tech, retail, and consumer products**.  
-I specialize in solving messy, ambiguous problems by combining **analytics, product sense, and cross-functional collaboration**.  
-
-- 🔎 Skilled in SQL, Python, R, Tableau, and PowerBI  
-- 📊 Experienced in A/B Testing, Causal Inference, Predictive Modeling, and Automation  
-- 🌐 Worked at **Amazon, L’Oréal, Estée Lauder, and TikTok**  
-- 🛠️ Built scalable pipelines & dashboards that cut manual work, boosted engagement, and informed **multi-market strategy**  
+What I enjoy most is the mix of **detective work and storytelling**:  
+finding the root cause in the numbers, then explaining it in a way that actually drives change.  
 
 ---
 
-## 💼 Experience Highlights  
+## 🌟 What I Do  
 
-- **Amazon (Fresh & Whole Foods)** → Delivered weekly insights & automated dashboards to guide **store strategy and operations**.  
-- **The Best Notary** → Migrated 8+ legacy reports into **Looker dashboards**, improved match accuracy by **17%**.  
-- **L’Oréal** → Designed A/B test + DiD modeling for 10 countries, shaping **global business strategy for 2023**.  
-- **Estée Lauder** → Built NLP + XGBoost model to boost Instagram engagement by **5.1%**.  
-- **TikTok Ads** → Created **Excel VBA analytics tools** reducing manual reporting by **33%**.  
+- 🛠 **Analytics & Problem-Solving** → SQL, Python, R, Tableau, PowerBI  
+- 🔍 **Root Cause Detective** → A/B tests, causal inference, predictive modeling  
+- 🌍 **Cross-Functional Collaborator** → I’ve worked with engineers, product managers, ops, and marketers across 3 continents  
 
 ---
 
-## 🧪 Hackathons & Projects  
+## 📌 A Few Highlights  
 
-- 🏆 **PitchSense (AgentHack 2025, Top 5%)** → Predictive matching model (Python + Next.js) connecting founders with VCs.  
-- ⚡ **NeuroPolis (UC Davis Hackathon, Top 10%)** → LightGBM models for disaster prediction & misinformation filtering with Plotly dashboards.  
-
----
-
-## 🎓 Education  
-
-🎓 **UC Davis** — M.S. Business Analytics (2025) | GPA 3.8  
-🎓 **Columbia University** — M.A. International Economics Policy (2024) | GPA 3.9  
-🎓 **Beijing International Studies University** — B.A. International Economics (2021) | GPA 3.8  
+- At **Amazon**, I automated reporting that cut hours of manual work and helped launch new stores with real customer insights.  
+- At **L’Oréal**, I ran experiments in 10 countries to figure out the most profitable way to give away samples (spoiler: not all “freebies” are equal).  
+- At **Estée Lauder**, I used NLP to study thousands of Instagram posts and boosted engagement by **5%**.  
+- At **TikTok**, I made self-service analytics tools so non-technical teams could get answers without waiting days.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧪 Projects I’m Proud Of  
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **PitchSense (AgentHack 2025, Top 5%)** → Built a model + front-end to match startup founders with VCs and write personalized outreach emails.  
+- **NeuroPolis (UC Davis Hackathon, Top 10%)** → Built ML models to predict disasters and filter misinformation, then visualized results with interactive dashboards.  
+
+---
+
+## 🎓 A Bit About My Journey  
+
+- 📊 Master’s in **Business Analytics** @ UC Davis  
+- 🌎 Master’s in **International Economics Policy** @ Columbia  
+- 📈 Bachelor’s in **International Economics** from Beijing  
+
+---
+
+## 💡 Outside of Work  
+
+I geek out about:  
+- Building little automation scripts that save people headaches  
+- Exploring how AI can actually help with day-to-day ops (not just buzzwords)  
+- Good data visualizations (bonus points if they tell a story)  
 
 ---
 
 ## 📫 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rachel-guo0429/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rachelqingguo.github.io/personal-portfolio/)  
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachelqingguo)  
+[LinkedIn](https://www.linkedin.com/in/rachel-guo0429/) | [Portfolio](https://rachelqingguo.github.io/personal-portfolio/) | [GitHub](https://github.com/rachelqingguo)  
 
 ---
 
-✨ *Turning messy data and complex processes into clear insights and scalable solutions.*  
+✨ *At the end of the day, I just like turning messy data into something clear, useful, and maybe even a little bit fun.*  
